@@ -1,17 +1,23 @@
-.about-header-box{
+.about-div{
     display: flex;
     flex-direction: row;
 }
-.about-header-boxline{
-    font-size: 60px;
-    margin-top: 30px;
-    margin-left: 100px;
+.div-1{
+    height:400px;
+    width:500px;
+    margin: 25px 30px;
+    margin-left: 150px;
 }
-.about-home-img{
-    height: 230px;
-    width: 300px;
-    background-color: #fff3ec;
-    padding:10px;
-    margin:20px 150px ;
-    border-radius:0px;
+.div-2{
+    height:400px;
+    width:500px;
+    font-size: 25px;
+    margin-top: 100px;
+    margin-left:200px;
+    text-align: center;
+}
+.div-1-img{
+    height:350px;
+    width:650px;
+    margin-top: 50px;
 }

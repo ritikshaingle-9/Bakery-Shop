@@ -4,15 +4,19 @@
     display: inline-block;
 }
 .map-1{
-    margin:20px 50px ;
+    margin:20px 400px;
+}
+.map-2{
+    text-align: center;
+    font-size: 25px;
 }
 .form{
-    height: 300px;
+    height: 370px;
     width: 350px;
     text-align: left;
     background-color:#ffc0ad;
     margin: 30px;
-    margin-left: 200px;
+    margin-left: 530px;
     margin-top: 60px;
     padding: 40px;
 }
