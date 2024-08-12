@@ -42,7 +42,7 @@ body{
 .icon{
     height: 30px;
     width: 30px;
-    margin: 20px;
+    margin:10px 5px;
 }
 .icon-position{
     align-items: center;
