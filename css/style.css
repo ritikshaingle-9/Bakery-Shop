@@ -1,0 +1,16 @@
+body{
+  background-color: #55423d;
+  margin: 0;
+  padding: 20px;
+}
+.text-center{
+    text-align: center;
+}
+.merienda{
+    font-family: "Merienda", cursive;
+    color: #fffffe;
+    font-size: 40px;
+}
+.nounderline{
+    text-decoration: none;
+}
