@@ -1,0 +1,18 @@
+.map{
+    display: flex;
+    flex-direction: row;
+    display: inline-block;
+}
+.map-1{
+    margin:20px 50px ;
+}
+.form{
+    height: 300px;
+    width: 350px;
+    text-align: left;
+    background-color:#ffc0ad;
+    margin: 30px;
+    margin-left: 200px;
+    margin-top: 60px;
+    padding: 40px;
+}

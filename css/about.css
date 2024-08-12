@@ -1,0 +1,17 @@
+.about-header-box{
+    display: flex;
+    flex-direction: row;
+}
+.about-header-boxline{
+    font-size: 60px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.about-home-img{
+    height: 230px;
+    width: 300px;
+    background-color: #fff3ec;
+    padding:10px;
+    margin:20px 150px ;
+    border-radius:0px;
+}
