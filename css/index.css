@@ -28,14 +28,6 @@ body{
     margin-top: 50px;
     margin-left: 200px;
 }
-.home-img{
-    height: 330px;
-    width: 500px;
-    background-color: #fff3ec;
-    padding:10px;
-    margin:20px 150px ;
-    border-radius:0px;
-}
 .header-box{
     display: flex;
     flex-direction: row;
@@ -44,6 +36,14 @@ body{
     font-size: 60px;
     margin-top: 30px;
     margin-left: 100px;
+}
+.home-img{
+    height: 330px;
+    width: 500px;
+    background-color: #fff3ec;
+    padding:10px;
+    margin:20px 150px ;
+    border-radius:0px;
 }
 .cards-index{
     display: flex;
