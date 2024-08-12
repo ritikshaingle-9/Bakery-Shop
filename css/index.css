@@ -5,12 +5,11 @@ body{
   }
 .bakery{
     margin-top: 50px;
-    margin-left: 200px;
+    margin-left: 200px;   
 }
 .header-box{
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
 }
 .header-boxline{
     font-size: 60px;
@@ -29,7 +28,6 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    flex-wrap: wrap;
 }
 .card{
     height: 400px;
