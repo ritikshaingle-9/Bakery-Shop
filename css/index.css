@@ -51,11 +51,14 @@ body{
     justify-content: space-around;
 }
 .card{
-    height: 200px;
+    height: 400px;
     width: 300px;
     background-color:white;
     margin: 30px;
     margin-top: 50px;
+}
+.card:hover{
+    box-shadow: 0 0 10px 5px #9656a1;
 }
 .card-img{
     height: 400px;
