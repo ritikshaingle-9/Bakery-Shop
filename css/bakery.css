@@ -1,0 +1,36 @@
+.bakery{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.bakery-cards{
+    height: 350px;
+    width: 250px;
+    text-align: center;
+    background-color: #fff3ec;
+    margin: 20px 20px;
+}
+.bakery-cards:hover{
+    box-shadow: 0 0 10px 5px #9656a1;
+}
+.bakery-img{
+    height: 200px;
+    width: 100%;
+}
+p{
+    font-family: "Merienda", cursive;;
+}
+.bakery-btn{
+    background-color:#ffd803;
+    height: 33px;
+    width: 100px;
+    font-family: "Merienda", cursive;
+    color: #000000;
+    padding:5px;
+    margin: 3px;
+    font-size:17px;
+    text-align: center;
+    border-radius: 30px;
+    border: none;
+}
